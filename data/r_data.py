@@ -4,4 +4,3 @@ class rent_data:
 		self.author = author
 		self.link = link
 		self.title = title
-
